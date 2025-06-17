@@ -1,4 +1,5 @@
 This is my text file in GitHub
 and I edited it in local repository
 
-and edited afetr authentication
+and edited after authentication
+now pull this from Git
